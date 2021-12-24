@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": true,
+	"anti_delete" : true,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6289667923162",
+	"ownerNumberr": "6289667923162",
+	"cr": "@UkosamaSomoni",
+	"ownername": "Wilykun™",
+	"botname":"🤖 Hentongers-Bot 🤖",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  HENTONGERS-Bot  」\nCreated By @Wilykun"
+}
